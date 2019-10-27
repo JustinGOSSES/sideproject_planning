@@ -6,10 +6,12 @@ side project planning to avoid just working on stuff
 #### Improvements:
 - Continue Predictatops Improvements
 - Wellio Improvements
+- Split off evaluation of tops & curves? Separate projecct or part of Welly?
 #### Extensions:
 - WellioViz
 - Uncertatops
 - Lithotops (dynamic time warping +)
+
 #### Unification:
 - Unification of Wellio, WellioViz, Predictatops, Lithotops, and Uncertatops. 
 
