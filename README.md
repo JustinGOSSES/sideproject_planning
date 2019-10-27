@@ -13,6 +13,6 @@ side project planning to avoid just working on stuff
 #### Unification:
 - Unification of Wellio, WellioViz, Predictatops, Lithotops, and Uncertatops. 
 
-
+## Non-geologic
 - AR Business cards
 
