@@ -32,3 +32,4 @@ side project planning to avoid just working on stuff
 - planetary & geospatial notes for later projects : https://github.com/JustinGOSSES/planetary_geospatial_notes/blob/master/README.md
 - AI ethics, risks, uncertainty linked concepts in document that forms web page https://github.com/JustinGOSSES/json_ld_risk_inside_documentation
 - Houston (or any scale) kayaking analysis from geospatial data: https://github.com/JustinGOSSES/kayaking_geospatial_project
+- side side project for kayak mapping project is visualization of NLP results of all houston canoe cloud trip reports: https://thcc.clubexpress.com/content.aspx?page_id=22&club_id=496051&module_id=164295
