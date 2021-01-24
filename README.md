@@ -4,7 +4,7 @@ side project planning to avoid just working on stuff
 ## More than ideas:
 ### Geoscience Related Projects
 #### Continued improvements to my existing geoscience projects:
-- Continue Predictatops Improvements???? 
+- Continue Predictatops Improvements???? <== maybe let this one go stale.
 - Wellio Improvements
 - Wellioviz Improvements
 #### Contribute to existing geoscience community projects:
