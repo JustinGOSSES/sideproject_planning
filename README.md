@@ -19,8 +19,6 @@ side project planning to avoid just working on stuff
   - contribute a few issue fixes when have time
 - Awesome-Earth-Artificial-Intelligence:  https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence
   - Contribute linkages between it and Open-Awesome-Geoscience
-- Potential future NLP & Geoscience project building on experience with geovec-playground repo???
-  - idea
 
 ### Active Side Projects outside geoscience
 #### Older Side Projects
@@ -52,6 +50,11 @@ side project planning to avoid just working on stuff
 - Post about SWUNG hackathon on small technical products that help generate community
 
 ## Planning stages only
+#### Geoscience
+- Potential future NLP & Geoscience project building on experience with geovec-playground repo???
+  - idea
+
+#### Other
 - Can you leverage this: https://github.com/nchah/github-traffic-stats and github actions to update front-end only website with traffic data of clones?
 - planetary & geospatial notes for later projects : https://github.com/JustinGOSSES/planetary_geospatial_notes/blob/master/README.md
 - AI ethics, risks, uncertainty linked concepts in document that forms web page https://github.com/JustinGOSSES/json_ld_risk_inside_documentation
