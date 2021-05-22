@@ -4,28 +4,49 @@ side project planning to avoid just working on stuff
 ## More than ideas:
 ### Geoscience Related Projects
 #### Continued improvements to my existing geoscience projects:
-- Continue Predictatops Improvements???? <== maybe let this one go stale.
-- Wellio Improvements
-- Wellioviz Improvements
+- Continue Predictatops Improvements????
+  - maybe let this one stand as is given it's more useful as example than tooling.
+- Wellio
+  - Find files it doesn't work well on, identify solutions, submit issues/PR
+- Wellioviz
+  - Make improvements that remove issues
 #### Contribute to existing geoscience community projects:
-- run approvals of contributions to awesome-open-geoscience: https://github.com/JustinGOSSES/awesome-open-geoscience
-- Contribute to welly
-- contribute to pyrolite: Python for geochemistry
-- Contribute to Awesome-Earth-Artificial-Intelligence:  https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence
-- Potential future NLP & Geosciene project building on experience with geovec-playground repo???
+- awesome-open-geoscience: https://github.com/JustinGOSSES/awesome-open-geoscience
+  - Manage approvals of contributions
+- welly:
+  - contribute pull requests that make it easier to exchange json between Welly and wellio
+- pyrolite: Python for geochemistry
+  - contribute a few issue fixes when have time
+- Awesome-Earth-Artificial-Intelligence:  https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence
+  - Contribute linkages between it and Open-Awesome-Geoscience
+- Potential future NLP & Geoscience project building on experience with geovec-playground repo???
+  - idea
 
 ### Non-geologic 
 #### Continued Improvements to my existing projects:
-- AR Business cards: fix when dependencies cause it to break
-- 404 page: fix when dependencies cause it to break
+- AR Business cards:
+  - fix when dependencies cause it to break
+- 404 page: 
+  - done unless browser standards or street view syntax break it again
 - Yi Yun's business site: https://yiyunlininteriors.com/
+  - Done with adjustments as needed
 - Personal website revamp: https://justingosses.com
+  - Need to migrate from WordPress to static site at some point!!!
 
 #### Active Side Projects outside geoscience:
 ##### Generative Art
 - SVG-based on Observable https://observablehq.com/@justingosses/messing-around-with-a-fork-2342
 - SVG-based on Observable https://observablehq.com/@justingosses/svg-rectangles
 
+#### Projects Around Community, Connections, & Dependencies
+- SWUNG adaption on Lawrence Livermore National Labs software catalog project with emphasis on understanding engagement band ties across open source geoscience software landscape.
+  - Clean last references to LLNL in code
+  - write up list of changes needed to be done to reuse LLNL codebase
+  - See if I can automate or fork LLNL codebase such that it's easier to reuse to understand other code communities
+
+#### Blog Posts to be Written
+- Post about being featured creator on Observable
+- Post about SWUNG hackathon on small technical products that help generate community
 
 ## Planning stages only
 - can you leverage this: https://github.com/nchah/github-traffic-stats and github actions to update front-end only website with traffic data of clones?
