@@ -66,9 +66,12 @@ side project planning to avoid just working on stuff
 - Houston (or any scale) kayaking analysis from geospatial data: https://github.com/JustinGOSSES/kayaking_geospatial_project
 - Kayak mapping project is visualization of NLP results of all houston canoe cloud trip reports: https://thcc.clubexpress.com/content.aspx?page_id=22&club_id=496051&module_id=164295
 
+#### Personal Website or Resume Related 
+- Personal website revamp: https://justingosses.com
+  - Need to migrate from WordPress to static site at some point!!!
+- Organize bullet points from all past resumes into CSV / JSON. Use keywords, similar word bank, and basic logic rules on length and number of available lines to take in job description & job title and create starter resume for deeper human driven edits.
+
+
 #### Ideas Outside an Existing Category
 - Can you leverage this: https://github.com/nchah/github-traffic-stats and github actions to update front-end only website with traffic data of clones?
 - Notes on AI ethics, risks, uncertainty linked concepts in document that forms web page https://github.com/JustinGOSSES/json_ld_risk_inside_documentation
-- Personal website revamp: https://justingosses.com
-  - Need to migrate from WordPress to static site at some point!!!
-
