@@ -28,8 +28,6 @@ side project planning to avoid just working on stuff
   - done unless browser standards or street view syntax break it again
 - Yi Yun's business site: https://yiyunlininteriors.com/
   - Done with adjustments as needed
-- Personal website revamp: https://justingosses.com
-  - Need to migrate from WordPress to static site at some point!!!
 
 #### Generative Art
 - SVG-based on Observable https://observablehq.com/@justingosses/messing-around-with-a-fork-2342
@@ -54,18 +52,23 @@ side project planning to avoid just working on stuff
 - Potential future NLP & Geoscience project building on experience with geovec-playground repo???
   - idea
 
-#### Other
-- Can you leverage this: https://github.com/nchah/github-traffic-stats and github actions to update front-end only website with traffic data of clones?
-- planetary & geospatial notes for later projects : https://github.com/JustinGOSSES/planetary_geospatial_notes/blob/master/README.md
-- AI ethics, risks, uncertainty linked concepts in document that forms web page https://github.com/JustinGOSSES/json_ld_risk_inside_documentation
-- Houston (or any scale) kayaking analysis from geospatial data: https://github.com/JustinGOSSES/kayaking_geospatial_project
-- side side project for kayak mapping project is visualization of NLP results of all houston canoe cloud trip reports: https://thcc.clubexpress.com/content.aspx?page_id=22&club_id=496051&module_id=164295
-
 #### Generative Art 
 - Generative objects using "how to draw" or "architecture of " references as inspiration. 
   - Suspect this is very hard approach???
   - Reference for leaves from paleobotanists https://twitter.com/JustinGinHou/status/1393271835442262018?s=19
   - Reference for how to draw bivalves: https://twitter.com/franzanth/status/1390613234382610432?s=19
 
-## Blog Post Future
+#### Blog Post Future
  - TBD
+
+#### Geospatial
+- Planetary & geospatial notes for later projects : https://github.com/JustinGOSSES/planetary_geospatial_notes/blob/master/README.md
+- Houston (or any scale) kayaking analysis from geospatial data: https://github.com/JustinGOSSES/kayaking_geospatial_project
+- Kayak mapping project is visualization of NLP results of all houston canoe cloud trip reports: https://thcc.clubexpress.com/content.aspx?page_id=22&club_id=496051&module_id=164295
+
+#### Ideas Outside an Existing Category
+- Can you leverage this: https://github.com/nchah/github-traffic-stats and github actions to update front-end only website with traffic data of clones?
+- Notes on AI ethics, risks, uncertainty linked concepts in document that forms web page https://github.com/JustinGOSSES/json_ld_risk_inside_documentation
+- Personal website revamp: https://justingosses.com
+  - Need to migrate from WordPress to static site at some point!!!
+
