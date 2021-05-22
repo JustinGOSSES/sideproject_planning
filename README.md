@@ -42,6 +42,8 @@ side project planning to avoid just working on stuff
   - Clean last references to LLNL in code
   - write up list of changes needed to be done to reuse LLNL codebase
   - See if I can automate or fork LLNL codebase such that it's easier to reuse to understand other code communities
+- SWUNG hackathon lightning talk(s) slides
+  - Update use of images used in slides on Observable so things are properly sized on mobile.
 
 #### Blog Posts In Outline or Draft Stage
 - Post about being featured creator on Observable
@@ -54,3 +56,5 @@ n you leverage this: https://github.com/nchah/github-traffic-stats and github ac
 - AI ethics, risks, uncertainty linked concepts in document that forms web page https://github.com/JustinGOSSES/json_ld_risk_inside_documentation
 - Houston (or any scale) kayaking analysis from geospatial data: https://github.com/JustinGOSSES/kayaking_geospatial_project
 - side side project for kayak mapping project is visualization of NLP results of all houston canoe cloud trip reports: https://thcc.clubexpress.com/content.aspx?page_id=22&club_id=496051&module_id=164295
+
+## Blog Post Future
