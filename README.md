@@ -1,7 +1,7 @@
 # sideproject_planning
 side project planning to avoid just working on stuff
 
-## More than ideas:
+## Existing Side Projects:
 ### Geoscience Related Projects
 #### Continued improvements to my existing geoscience projects:
 - Continue Predictatops Improvements????
@@ -36,6 +36,7 @@ side project planning to avoid just working on stuff
 #### Generative Art
 - SVG-based on Observable https://observablehq.com/@justingosses/messing-around-with-a-fork-2342
 - SVG-based on Observable https://observablehq.com/@justingosses/svg-rectangles
+  - Build on this or start next one from scratch?
 
 #### Projects Around Community, Connections, & Dependencies
 - SWUNG adaption on Lawrence Livermore National Labs software catalog project with emphasis on understanding engagement band ties across open source geoscience software landscape.
@@ -57,4 +58,11 @@ side project planning to avoid just working on stuff
 - Houston (or any scale) kayaking analysis from geospatial data: https://github.com/JustinGOSSES/kayaking_geospatial_project
 - side side project for kayak mapping project is visualization of NLP results of all houston canoe cloud trip reports: https://thcc.clubexpress.com/content.aspx?page_id=22&club_id=496051&module_id=164295
 
+#### Generative Art 
+- Generative objects using "how to draw" or "architecture of " references as inspiration. 
+  - Suspect this is very hard approach???
+  - Reference for leaves from paleobotanists https://twitter.com/JustinGinHou/status/1393271835442262018?s=19
+  - Reference for how to draw bivalves: https://twitter.com/franzanth/status/1390613234382610432?s=19
+
 ## Blog Post Future
+ - TBD
