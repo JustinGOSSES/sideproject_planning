@@ -42,6 +42,7 @@ side project planning to avoid just working on stuff
   - Clean last references to LLNL in code
   - write up list of changes needed to be done to reuse LLNL codebase
   - See if I can automate or fork LLNL codebase such that it's easier to reuse to understand other code communities
+  - Would it be easier to reuse if it was just the python and JavaScript with no Jekyll/ruby?
 - SWUNG hackathon lightning talk(s) slides
   - Update use of images used in slides on Observable so things are properly sized on mobile.
 
@@ -50,8 +51,7 @@ side project planning to avoid just working on stuff
 - Post about SWUNG hackathon on small technical products that help generate community
 
 ## Planning stages only
-- CA
-n you leverage this: https://github.com/nchah/github-traffic-stats and github actions to update front-end only website with traffic data of clones?
+- Can you leverage this: https://github.com/nchah/github-traffic-stats and github actions to update front-end only website with traffic data of clones?
 - planetary & geospatial notes for later projects : https://github.com/JustinGOSSES/planetary_geospatial_notes/blob/master/README.md
 - AI ethics, risks, uncertainty linked concepts in document that forms web page https://github.com/JustinGOSSES/json_ld_risk_inside_documentation
 - Houston (or any scale) kayaking analysis from geospatial data: https://github.com/JustinGOSSES/kayaking_geospatial_project
