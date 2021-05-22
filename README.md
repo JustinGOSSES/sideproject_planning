@@ -70,8 +70,11 @@ side project planning to avoid just working on stuff
 #### Personal Website or Resume Related 
 - Personal website revamp: https://justingosses.com
   - Need to migrate from WordPress to static site at some point!!!
-- Organize bullet points from all past resumes into CSV / JSON. Use keywords, similar word bank, and basic logic rules on length and number of available lines to take in job description & job title and create starter resume for deeper human driven edits.
-
+- Resume Helper:
+  - Organize bullet points from all past resumes into CSV / JSON. Use keywords, similar word bank, and basic logic rules on length and number of available lines to take in job description & job title and create starter resume for deeper human driven edits.
+- Resume in decidedly not resume formats: 
+  - Pick from list of X duties, list of Y skills, and a specific format choice and get back a resume in HTML format exportable to PDF.
+  - Organize resume contents as graph of nodes. Nodes have links between nodes. Nodes have characteristics. Multiple different representations are possible based on representation of nodes, links, and node characteristics. Characteristics of each node include: skills, length, individual vs. group, individual contributor vs. leader, type of value to organization, numerical value, lists of resume style sentence to paragraph summaries of node, properties to filter last item.
 
 #### Ideas Outside an Existing Category
 - Can you leverage this: https://github.com/nchah/github-traffic-stats and github actions to update front-end only website with traffic data of clones?
