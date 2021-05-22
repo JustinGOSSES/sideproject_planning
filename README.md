@@ -57,6 +57,7 @@ side project planning to avoid just working on stuff
   - Suspect this is very hard approach???
   - Reference for leaves from paleobotanists https://twitter.com/JustinGinHou/status/1393271835442262018?s=19
   - Reference for how to draw bivalves: https://twitter.com/franzanth/status/1390613234382610432?s=19
+  - Reference 1980s PDF on algorithmic beauty of plants: https://twitter.com/artnome/status/1396076937626497028?s=19
 
 #### Blog Post Future
  - TBD
