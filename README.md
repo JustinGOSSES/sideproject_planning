@@ -78,4 +78,4 @@ side project planning to avoid just working on stuff
 
 #### Ideas Outside an Existing Category
 - Can you leverage this: https://github.com/nchah/github-traffic-stats and github actions to update front-end only website with traffic data of clones?
-- Notes on AI ethics, risks, uncertainty linked concepts in document that forms web page https://github.com/JustinGOSSES/json_ld_risk_inside_documentation
+- Notes on AI ethics, risks, uncertainty linked concepts in document that forms web page (<a href="https://github.com/JustinGOSSES/json_ld_risk_inside_documentation"private repo</a>) 
