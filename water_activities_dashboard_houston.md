@@ -57,6 +57,14 @@ With first guesses at decision point scenarios
 - Can all sites be embedded? 
   - What sites can't? 
   - Do they have APIs?
+- What would save time beyond just having all the links to click in one spot?
 - What's the right mix of buttons that link, embeds, APIs used that builds data visualizations?
 - Templates that serve this need or scratch or framework?
 - Just front-end or any need for a backend?
+- Any benefits from saving data, conditions, or experiences?
+  - For buffalo bayou:
+    - Give height and past experience:
+        - bi-directional trips from single put-in/take-out won't work as river is too high
+        - too fast to take others
+        - river has been too high by X amount for X days
+        - map our times of year river has historically been too high for bi-directional or even one-way trips based on different skill levels
