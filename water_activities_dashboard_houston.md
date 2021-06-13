@@ -58,3 +58,5 @@ With first guesses at decision point scenarios
   - What sites can't? 
   - Do they have APIs?
 - What's the right mix of buttons that link, embeds, APIs used that builds data visualizations?
+- Templates that serve this need or scratch or framework?
+- Just front-end or any need for a backend?
