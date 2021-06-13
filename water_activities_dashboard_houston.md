@@ -68,3 +68,14 @@ With first guesses at decision point scenarios
         - too fast to take others
         - river has been too high by X amount for X days
         - map our times of year river has historically been too high for bi-directional or even one-way trips based on different skill levels
+
+
+
+
+Buffalo Bayou API call example: 
+
+https://nwis.waterservices.usgs.gov/nwis/iv/?format=json&sites=08074000&startDT=2017-06-01&endDT=2021-06-03&parameterCd=00060,00065&siteStatus=all
+
+Generated from this page: 
+
+https://waterservices.usgs.gov/rest/IV-Test-Tool.html
