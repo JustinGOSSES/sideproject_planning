@@ -62,6 +62,9 @@ side project planning to avoid just working on stuff
 #### Blog Post Future
  - TBD
 
+#### Water Relatd
+- Started markdown file with ideas for page that brings together all the sources I check for sea kayaking, whitewater paddling, flat water paddle boarding, and surfing. 
+
 #### Geospatial
 - Planetary & geospatial notes for later projects : https://github.com/JustinGOSSES/planetary_geospatial_notes/blob/master/README.md
 - Houston (or any scale) kayaking analysis from geospatial data: https://github.com/JustinGOSSES/kayaking_geospatial_project
