@@ -71,6 +71,11 @@ With first guesses at decision point scenarios
 
 
 
+## Doodles
+
+#### First draft
+https://observablehq.com/d/23f79d02e6033913
+
 
 Buffalo Bayou API call example: 
 
@@ -79,3 +84,10 @@ https://nwis.waterservices.usgs.gov/nwis/iv/?format=json&sites=08074000&startDT=
 Generated from this page: 
 
 https://waterservices.usgs.gov/rest/IV-Test-Tool.html
+
+
+#### USGS Plot Code
+Looked at this, but it doesn't look like I can control how far down the fill occurs or add a datum line at a given value
+https://txpub.usgs.gov/dss/gwis/0.0/doc/#documentation
+
+
