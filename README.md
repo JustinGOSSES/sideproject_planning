@@ -82,4 +82,4 @@ side project planning to avoid just working on stuff
 
 #### Ideas Outside an Existing Category
 - Can you leverage this: https://github.com/nchah/github-traffic-stats and github actions to update front-end only website with traffic data of clones?
-- A tiny javascript library that returns comparisons for length, height, area, volume, and weight based on data in JSONs or CSVs. For example, "The interior of the van has the same volumne as 1523 average pineapples." draft in private repo https://github.com/JustinGOSSES/AsBigAs/blob/main/README.md
+- A tiny javascript library that returns comparisons for length, height, area, volume, and weight based on data in JSONs or CSVs. For example, "The interior of the van has the same volume as 1523 average pineapples." draft in private repo https://github.com/JustinGOSSES/AsBigAs/blob/main/README.md
