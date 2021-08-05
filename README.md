@@ -82,4 +82,4 @@ side project planning to avoid just working on stuff
 
 #### Ideas Outside an Existing Category
 - Can you leverage this: https://github.com/nchah/github-traffic-stats and github actions to update front-end only website with traffic data of clones?
-- Notes on AI ethics, risks, uncertainty linked concepts in document that forms web page (<a href="https://github.com/JustinGOSSES/json_ld_risk_inside_documentation">private repo</a>) 
+- A tiny javascript library that returns comparisons for length, height, area, volume, and weight based on data in JSONs or CSVs. For example, "The interior of the van has the same volumne as 1523 average pineapples." draft in private repo https://github.com/JustinGOSSES/AsBigAs/blob/main/README.md
