@@ -90,4 +90,59 @@ https://waterservices.usgs.gov/rest/IV-Test-Tool.html
 Looked at this, but it doesn't look like I can control how far down the fill occurs or add a datum line at a given value
 https://txpub.usgs.gov/dss/gwis/0.0/doc/#documentation
 
+## Possible Organizational Structure For Trips
 
+
+### What should be top-level organizing variable?
+
+#### Possibilities
+
+##### Description of possible trip
+
+- body_of_water: ""
+  - trip_name: ""
+  - put_in: ["latitude":"","longitude":""]
+  - take_out: ["latitude":"","longitude":""]
+  - put_in_name: ""
+  - take_out_name: ""
+  - one_way_or_come_back_to_start:""
+  - activity_types_possible:[]
+  - boat_type_best_for_this_location:""
+  - paddler_skill_level_from_enum_possible:[""]
+  - trip_difficulty_description:""
+  - paddler_minimum_skill_level:""
+  - whitewater_class:""
+  - water_if_moving_range:[""]
+  - tidal_range_that_is_best:[integer]
+  - link_to_tidal_forecast:""
+  - link_to_river_gage_nearest:""
+  - gage_level_max_for_skill_and_boat_level_high:""
+  - gage_level_max_for_skill_and_boat_level_average:""
+  - gage_level_max_for_skill_and_boat_level_low:""
+  - wind_an_issue_boolean:""
+  - wind_direction_worst_for_this_trip:""
+  - wind_direction_best_for_this_trip:""
+  - surfing_shoreline_orientation:""
+  - surfing_wave_best_orientation:""
+
+##### Details of actual trip
+
+same as above, plus:
+
+- trip_name_actual: ""
+- boat_type_used_on_trip_from_enum:""
+- boat_type_used_on_trip_description:""
+- activity_type:""
+- paddler_skill_level_from_enum_actual:[]
+- trip_difficulty_description_actual:""
+- whitewater_class:""
+- tide_actual:""
+- date_trip_started:""
+- date_trip_ended:""
+- time_time_trip_started:""
+- time_time_trip_ended:""
+- wind_speed_actual:""
+- wind_direction_actual:""
+- surf_height_actual:""
+- surf_period_actual:""
+- surf_quality_actual:""
