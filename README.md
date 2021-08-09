@@ -1,5 +1,12 @@
 # sideproject_planning
-side project planning to avoid just working on stuff
+Side project planning to avoid just.... working on stuff
+
+Current Most Active Projects Are:
+- "VisualAwesome"
+- Water Related various....
+  - A single page with all of the most common resources I check before paddling/surfing in Houston Galveston area. 
+  - Exploration of state of the art of open source wave-related deep-learning with surf focus.
+
 
 ## Existing Longterm Side Projects:
 ### Geoscience Related Projects
@@ -48,7 +55,7 @@ side project planning to avoid just working on stuff
 
 
 #### Projects Around Community, Connections, & Dependencies
-- SWUNG adaption on Lawrence Livermore National Labs software catalog project with emphasis on understanding engagement band ties across open source geoscience software landscape.
+- <b>"VisualAwesome"</b> SWUNG adaption on Lawrence Livermore National Labs software catalog project with emphasis on understanding engagement band ties across open source geoscience software landscape.
   - write up list of changes needed to be done to reuse LLNL codebase
   - See if I can automate or fork LLNL codebase such that it's easier to reuse to understand other code communities
   - Would it be easier to reuse if it was just the python and JavaScript with no Jekyll/ruby?
@@ -59,6 +66,7 @@ side project planning to avoid just working on stuff
 - Started markdown file with ideas for page that brings together all the sources I check for sea kayaking, whitewater paddling, flat water paddle boarding, and surfing. <a href="https://github.com/JustinGOSSES/sideproject_planning/blob/master/water_activities_dashboard_houston.md">https://github.com/JustinGOSSES/sideproject_planning/blob/master/water_activities_dashboard_houston.md</a>
   - And built <a href="https://github.com/JustinGOSSES/water_check_houston">little page with collection of iframes & visualizations</a> of frequently checked inforrmation sources before paddling.
 - Observable notebook that uses USGS water guage API and personal experiences regarding when water is too high or fast for certain trips and plots the historical periods when trips were or weren't possible on a time series chart. 
+- Exploration of state of the art of open source wave-related deep-learning with surf focus.
 
 #### "AsBigAs" API
 - A tiny javascript library that returns comparisons for length, height, area, volume, and weight based on data in JSONs or CSVs. For example, "The interior of the van has the same volume as 1523 average pineapples." draft in private repo https://github.com/JustinGOSSES/AsBigAs/blob/main/README.md
