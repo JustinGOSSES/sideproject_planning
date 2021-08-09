@@ -184,7 +184,7 @@ Description goes here
 Description goes here
 
 
-### Why Variations In Kayaking Are Different Then Surfing
+## Why Variations In Kayaking Are Different Then Surfing
 
 Where as "surf" can sometimes be a binary in terms of "not worth it" or "up" with a secondary level of descriptions that apply to intermediate surfers and even more detail that matters only to advanced surfers, the information that is relevant to paddlers is less organized in a progressive manner.
 
@@ -199,17 +199,23 @@ It focuses on community supplied trip reports. These usually have a put-in and m
 The conditions that define what makes the trip possible are typically not captured. 
 
 ## Useful information that could be captured & presented at scale without sourcing from community.
+Description goes here
 
 #### Land use along path from existing land use imagery assets
 Show to users what type of view they will have along their trip and how it will change. Be able to show variations across potential paddle trips.
 
 #### Automatic calculation of elevation along path
+Description goes here
+
 
 #### Automatic recognition of bridges along path
+Description goes here
 
 #### Visualization of area of potential rapids or shallows that require hauling the boat at different points in time tied to nearest river gage levels.
+Description goes here
 
 #### Distances along river tool
+Description goes here
 
 ## Useful information sourcing from community not typically being captured in tools
 - boat information
