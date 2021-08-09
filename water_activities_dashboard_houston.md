@@ -199,7 +199,15 @@ It focuses on community supplied trip reports. These usually have a put-in and m
 The conditions that define what makes the trip possible are typically not captured. 
 
 ## Useful information that could be captured & presented at scale without sourcing from community.
-Description goes here
+Seems as if there could be useful information presented to the paddler user that isn't currently in existing tools. 
+
+##### As a paddler, it would be nice to:
+- Compare potential trips or put-in locations based on the proportion of different land use seen along the trip. 
+- Get hiking trip style elevation plot of the variation in elevation along the route, both to:
+  - Compare & different trips by the elevation change.
+  - See where the elevation change increases or has a jump
+  - See where a bridge or other item crosses the river.
+
 
 #### Land use along path from existing land use imagery assets
 Show to users what type of view they will have along their trip and how it will change. Be able to show variations across potential paddle trips.
@@ -218,6 +226,7 @@ Description goes here
 Description goes here
 
 ## Useful information sourcing from community not typically being captured in tools
+
 - boat information
 - skill level information
 - exact time/date information
