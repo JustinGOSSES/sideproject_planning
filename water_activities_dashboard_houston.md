@@ -171,18 +171,23 @@ Description goes here
 Description goes here
 
 
-## Why Variations In Kayaking Are Different Then Surfing
+### Recording trip details
 
 Description goes here
 
-## Recording trip details
+### Use of your past trip details
 
 Description goes here
 
-## Use of your past trip details
+### Use of others past trip details
 
 Description goes here
 
-## Use of others past trip details
+
+### Why Variations In Kayaking Are Different Then Surfing
+
+Description goes here
+
+## Critique on Other Apps & Tools
 
 Description goes here
