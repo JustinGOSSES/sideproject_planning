@@ -186,8 +186,45 @@ Description goes here
 
 ### Why Variations In Kayaking Are Different Then Surfing
 
-Description goes here
+Where as "surf" can sometimes be a binary in terms of "not worth it" or "up" with a secondary level of descriptions that apply to intermediate surfers and even more detail that matters only to advanced surfers, the information that is relevant to paddlers is less organized in a progressive manner.
+
+What is "too fast" for a river to be run can vary quite a bit based on the craft being used, the skill level paddling it, and whether the trip is a one-way down river trip or up and then back down from the same location.
 
 ## Critique on Other Apps & Tools
 
-Description goes here
+The biggest is maybe "GoPaddling" https://paddling.com/paddle/locations?viewport=center%5B%5D%3D41.83682786072712%26center%5B%5D%3D-98.61328125%26zoom%3D3 
+
+It focuses on community supplied trip reports. These usually have a put-in and maybe take-out location, a text description, and various amounts of form-based metadata captured. 
+
+The conditions that define what makes the trip possible are typically not captured. 
+
+## Useful information that could be captured & presented at scale without sourcing from community.
+
+#### Land use along path from existing land use imagery assets
+Show to users what type of view they will have along their trip and how it will change. Be able to show variations across potential paddle trips.
+
+#### Automatic calculation of elevation along path
+
+#### Automatic recognition of bridges along path
+
+#### Visualization of area of potential rapids or shallows that require hauling the boat at different points in time tied to nearest river gage levels.
+
+#### Distances along river tool
+
+## Useful information sourcing from community not typically being captured in tools
+- boat information
+- skill level information
+- exact time/date information
+- gage/wind/wave information
+- GPS points
+- Paths instead of put-in take out information.
+
+
+
+
+
+
+
+
+
+
