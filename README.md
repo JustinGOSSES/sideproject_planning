@@ -1,7 +1,7 @@
 # sideproject_planning
 side project planning to avoid just working on stuff
 
-## Existing Side Projects:
+## Existing Longterm Side Projects:
 ### Geoscience Related Projects
 #### Continued improvements to my existing geoscience projects:
 - Continue Predictatops Improvements????
@@ -35,6 +35,18 @@ side project planning to avoid just working on stuff
 - SVG-based on Observable https://observablehq.com/@justingosses/svg-rectangles
   - Build on this or start next one from scratch?
 
+
+
+#### Blog Posts In Outline or Draft Stage
+- Post about being featured creator on Observable
+  - Too late?
+- Post about SWUNG hackathon on small technical products that help generate community
+    - Done
+
+
+## Work In Progress Not Yet First Draft
+
+
 #### Projects Around Community, Connections, & Dependencies
 - SWUNG adaption on Lawrence Livermore National Labs software catalog project with emphasis on understanding engagement band ties across open source geoscience software landscape.
   - write up list of changes needed to be done to reuse LLNL codebase
@@ -43,11 +55,14 @@ side project planning to avoid just working on stuff
 - SWUNG hackathon lightning talk(s) slides
   - Done
 
-#### Blog Posts In Outline or Draft Stage
-- Post about being featured creator on Observable
-  - Too late?
-- Post about SWUNG hackathon on small technical products that help generate community
-    - Done
+#### Water Relatd
+- Started markdown file with ideas for page that brings together all the sources I check for sea kayaking, whitewater paddling, flat water paddle boarding, and surfing. <a href="https://github.com/JustinGOSSES/sideproject_planning/blob/master/water_activities_dashboard_houston.md">https://github.com/JustinGOSSES/sideproject_planning/blob/master/water_activities_dashboard_houston.md</a>
+  - And built <a href="https://github.com/JustinGOSSES/water_check_houston">little page with collection of iframes & visualizations</a> of frequently checked inforrmation sources before paddling.
+- Observable notebook that uses USGS water guage API and personal experiences regarding when water is too high or fast for certain trips and plots the historical periods when trips were or weren't possible on a time series chart. 
+
+#### "AsBigAs" API
+- A tiny javascript library that returns comparisons for length, height, area, volume, and weight based on data in JSONs or CSVs. For example, "The interior of the van has the same volume as 1523 average pineapples." draft in private repo https://github.com/JustinGOSSES/AsBigAs/blob/main/README.md
+
 
 ## Planning stages only
 #### Geoscience
@@ -63,11 +78,6 @@ side project planning to avoid just working on stuff
 
 #### Blog Post Future
  - TBD
-
-#### Water Relatd
-- Started markdown file with ideas for page that brings together all the sources I check for sea kayaking, whitewater paddling, flat water paddle boarding, and surfing. <a href="https://github.com/JustinGOSSES/sideproject_planning/blob/master/water_activities_dashboard_houston.md">https://github.com/JustinGOSSES/sideproject_planning/blob/master/water_activities_dashboard_houston.md</a>
-  - And built <a href="https://github.com/JustinGOSSES/water_check_houston">little page with collection of iframes & visualizations</a> of frequently checked inforrmation sources before paddling.
-- Observable notebook that uses USGS water guage API and personal experiences regarding when water is too high or fast for certain trips and plots the historical periods when trips were or weren't possible on a time series chart. 
 
 #### Geospatial
 - Planetary & geospatial notes for later projects : https://github.com/JustinGOSSES/planetary_geospatial_notes/blob/master/README.md
@@ -85,4 +95,4 @@ side project planning to avoid just working on stuff
 
 #### Ideas Outside an Existing Category
 - Can you leverage this: https://github.com/nchah/github-traffic-stats and github actions to update front-end only website with traffic data of clones?
-- A tiny javascript library that returns comparisons for length, height, area, volume, and weight based on data in JSONs or CSVs. For example, "The interior of the van has the same volume as 1523 average pineapples." draft in private repo https://github.com/JustinGOSSES/AsBigAs/blob/main/README.md
+
