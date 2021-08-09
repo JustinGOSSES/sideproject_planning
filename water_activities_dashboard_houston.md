@@ -1,5 +1,9 @@
 # Water Activities Dashboard for Houston Area
 
+## Minimal Viable Version
+Built a first draft that is mostly a just a page of iframes to content elsewhere: https://github.com/JustinGOSSES/water_check_houston 
+
+
 ## Premise
 
 As someone who has a paddle board, whitewater kayak, and sea kayak who often takes them to local rivers, 
