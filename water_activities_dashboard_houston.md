@@ -150,3 +150,39 @@ same as above, plus:
 - surf_height_actual:""
 - surf_period_actual:""
 - surf_quality_actual:""
+
+
+## Use Cases
+### Quick checks when considering a paddle in 1-5 days
+
+Description goes here
+
+### Checking on conditions that day
+
+Description goes here
+
+### Looking for places to go (out of known spots/trips)
+
+Description goes here
+
+
+### Trying to explore new potential areas (unknown spots/trips)
+
+Description goes here
+
+
+## Why Variations In Kayaking Are Different Then Surfing
+
+Description goes here
+
+## Recording trip details
+
+Description goes here
+
+## Use of your past trip details
+
+Description goes here
+
+## Use of others past trip details
+
+Description goes here
