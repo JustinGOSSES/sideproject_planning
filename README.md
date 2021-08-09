@@ -5,11 +5,12 @@ side project planning to avoid just working on stuff
 ### Geoscience Related Projects
 #### Continued improvements to my existing geoscience projects:
 - Continue Predictatops Improvements????
-  - maybe let this one stand as is given it's more useful as example than tooling.
+  - Maybe more clearly express in README that it is more of a proof of concept than tool? And provide more instructions for how to use as such?
 - Wellio
-  - Find files it doesn't work well on, identify solutions, submit issues/PR
+  - Make improvements that remove issues
 - Wellioviz
   - Make improvements that remove issues
+  - 
 #### Contribute to existing geoscience community projects:
 - awesome-open-geoscience: https://github.com/JustinGOSSES/awesome-open-geoscience
   - Manage approvals of contributions
@@ -36,16 +37,17 @@ side project planning to avoid just working on stuff
 
 #### Projects Around Community, Connections, & Dependencies
 - SWUNG adaption on Lawrence Livermore National Labs software catalog project with emphasis on understanding engagement band ties across open source geoscience software landscape.
-  - Clean last references to LLNL in code
   - write up list of changes needed to be done to reuse LLNL codebase
   - See if I can automate or fork LLNL codebase such that it's easier to reuse to understand other code communities
   - Would it be easier to reuse if it was just the python and JavaScript with no Jekyll/ruby?
 - SWUNG hackathon lightning talk(s) slides
-  - Update use of images used in slides on Observable so things are properly sized on mobile.
+  - Done
 
 #### Blog Posts In Outline or Draft Stage
 - Post about being featured creator on Observable
+  - Too late?
 - Post about SWUNG hackathon on small technical products that help generate community
+    - Done
 
 ## Planning stages only
 #### Geoscience
@@ -64,6 +66,7 @@ side project planning to avoid just working on stuff
 
 #### Water Relatd
 - Started markdown file with ideas for page that brings together all the sources I check for sea kayaking, whitewater paddling, flat water paddle boarding, and surfing. <a href="https://github.com/JustinGOSSES/sideproject_planning/blob/master/water_activities_dashboard_houston.md">https://github.com/JustinGOSSES/sideproject_planning/blob/master/water_activities_dashboard_houston.md</a>
+  - And built <a href="https://github.com/JustinGOSSES/water_check_houston">little page with collection of iframes & visualizations</a> of frequently checked inforrmation sources before paddling.
 - Observable notebook that uses USGS water guage API and personal experiences regarding when water is too high or fast for certain trips and plots the historical periods when trips were or weren't possible on a time series chart. 
 
 #### Geospatial
