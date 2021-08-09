@@ -2,7 +2,7 @@
 Side project planning to avoid just.... working on stuff
 
 Current Most Active Projects Are:
-- "VisualAwesome"
+- "VisualAwesome"... reusable visualizations of the community that comes from Awesome Lists.
 - Water Related various....
   - A single page with all of the most common resources I check before paddling/surfing in Houston Galveston area. 
   - Exploration of state of the art of open source wave-related deep-learning with surf focus.
