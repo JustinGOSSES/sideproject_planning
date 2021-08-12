@@ -212,6 +212,20 @@ Seems as if there could be useful information presented to the paddler user that
 #### Land use along path from existing land use imagery assets
 Show to users what type of view they will have along their trip and how it will change. Be able to show variations across potential paddle trips.
 
+##### Possible Workflow
+- get landuse as vector layer
+- get river polyline nearest point
+- use USGS tool to get polyline from there to river mouth
+- find nearest point on that polygon to user selected second point
+- Use intersection of points to split polyline into segment between 2 points?
+- apply buffer to polygon that creates polygon (turf.js?)
+- intersection of polygon & landuse polygons, clip
+- create lines perpendicular to center line of polygon every X kilometers.
+- use previous lines to create intersection and new polygons beteen each line segment
+- calculate area of each landuse polygon with segment polygon. Sum by landuse type
+- Visualization both land use % within each segment polygon & within intersection polygon as a whole that is along the river between the two points.
+
+
 #### Automatic calculation of elevation along path
 Description goes here
 
