@@ -71,6 +71,10 @@ Current Most Active Projects Are:
 #### "AsBigAs" API
 - A tiny javascript library that returns comparisons for length, height, area, volume, and weight based on data in JSONs or CSVs. For example, "The interior of the van has the same volume as 1523 average pineapples." draft in private repo https://github.com/JustinGOSSES/AsBigAs/blob/main/README.md
 
+#### NASA Contractor Information Brain Dump
+- A README with information related to getting a NASA contractor job. This consists of information I've told others in previous forms and some additional links to relevant information that I've gathered just for this side project. 
+- repository: https://github.com/JustinGOSSES/nasa_contractor_jobs_information 
+
 
 ## Planning stages only
 #### Geoscience
