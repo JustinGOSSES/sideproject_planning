@@ -80,7 +80,8 @@ Current Most Active Projects Are:
 #### Geoscience
 - Potential future NLP & Geoscience project building on experience with geovec-playground repo???
   - idea
-- Interactive map & pictures of roadcut imagery from google streetview. Training machine learning model to detect road cuts or outcrops and then place on map with quality score that can use a frame of reference of either all data, regional data, or local data for quality of roadcut imagery cutoff. 
+- Interactive map & pictures of roadcut imagery from google streetview:
+  -  Training machine learning model to detect road cuts or outcrops and then place on map with quality score that can use a frame of reference of either all data, regional data, or local data for quality of roadcut imagery cutoff. 
 
 
 #### Generative Art 
