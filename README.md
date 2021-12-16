@@ -10,11 +10,11 @@ Current Most Active Projects Are:
 ### Geoscience Related Projects
 #### Continued improvements to my existing geoscience projects:
 1. Predictatops Improvements????
-  - Probably done, keep as full-scale working proof of concept and not reusable library.
+    - Probably done, keep as full-scale working proof of concept and not reusable library.
 2. Wellio
-  - Make improvements that remove issues
+    - Make improvements that remove issues
 3. Wellioviz
-  - Make improvements that remove issues
+    - Make improvements that remove issues
  
 #### Contribute to existing geoscience community projects:
 1. awesome-open-geoscience: https://github.com/JustinGOSSES/awesome-open-geoscience
