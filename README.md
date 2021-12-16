@@ -41,22 +41,16 @@ Current Most Active Projects Are:
 - SVG-based on Observable https://observablehq.com/@justingosses/messing-around-with-a-fork-2342?collection=@justingosses/generative-art
   - Build on this or start next one from scratch?
 
-#### Projects Around Community, Connections, & Dependencies
-- <b>"VisualAwesome"</b> SWUNG adaption on Lawrence Livermore National Labs software catalog project with emphasis on understanding engagement band ties across open source geoscience software landscape.
-- SWUNG hackathon lightning talk(s) slides
-  - Done
-- Created easily reusable template repository to decrease the time it takes to adapt the project to other sources from days to dozens of minutes waiting for a script to run after changing several lines in a configuration file: https://github.com/JustinGOSSES/awsome-list-visual-explorer-template
-  - Need to improve documentation, fix a few minor bugs, and expand number of visualizations to better answer common questions.
-
-#### Blog Posts In Outline or Draft Stage
-- Post about being featured creator on Observable
-  - Too late?
-- Things for users to know about open data staff?
-- Post about SWUNG hackathon on small technical products that help generate community
-    - Done
 
 ---------------------------------
-## Work In Progress Not Yet First Draft
+## Work In Progress
+
+#### Generative Art 
+- Generative objects using "how to draw" or "architecture of " references as inspiration. 
+  - Suspect this is very hard approach???
+  - Reference for leaves from paleobotanists https://twitter.com/JustinGinHou/status/1393271835442262018?s=19
+  - Reference for how to draw bivalves: https://twitter.com/franzanth/status/1390613234382610432?s=19
+  - Reference 1980s PDF on algorithmic beauty of plants: https://twitter.com/artnome/status/1396076937626497028?s=19
 
 #### Water Relatd
 - Started markdown file with ideas for page that brings together all the sources I check for sea kayaking, whitewater paddling, flat water paddle boarding, and surfing. <a href="https://github.com/JustinGOSSES/sideproject_planning/blob/master/water_activities_dashboard_houston.md">https://github.com/JustinGOSSES/sideproject_planning/blob/master/water_activities_dashboard_houston.md</a>
@@ -71,7 +65,15 @@ Current Most Active Projects Are:
 - A README with information related to getting a NASA contractor job. This consists of information I've told others in previous forms and some additional links to relevant information that I've gathered just for this side project. 
 - repository: https://github.com/JustinGOSSES/nasa_contractor_jobs_information 
 
+#### Projects Around Community, Connections, & Dependencies
+- <b>"VisualAwesome"</b> SWUNG adaption on Lawrence Livermore National Labs software catalog project with emphasis on understanding engagement band ties across open source geoscience software landscape.
+- SWUNG hackathon lightning talk(s) slides
+  - Done
+- Created easily reusable template repository to decrease the time it takes to adapt the project to other sources from days to dozens of minutes waiting for a script to run after changing several lines in a configuration file: https://github.com/JustinGOSSES/awsome-list-visual-explorer-template
+  - Need to improve documentation, fix a few minor bugs, and expand number of visualizations to better answer common questions.
+  
 
+--------------------------
 ## Planning stages only
 #### Geoscience
 - Potential future NLP & Geoscience project building on experience with geovec-playground repo???
@@ -80,15 +82,12 @@ Current Most Active Projects Are:
   -  Training machine learning model to detect road cuts or outcrops and then place on map with quality score that can use a frame of reference of either all data, regional data, or local data for quality of roadcut imagery cutoff. 
 
 
-#### Generative Art 
-- Generative objects using "how to draw" or "architecture of " references as inspiration. 
-  - Suspect this is very hard approach???
-  - Reference for leaves from paleobotanists https://twitter.com/JustinGinHou/status/1393271835442262018?s=19
-  - Reference for how to draw bivalves: https://twitter.com/franzanth/status/1390613234382610432?s=19
-  - Reference 1980s PDF on algorithmic beauty of plants: https://twitter.com/artnome/status/1396076937626497028?s=19
-
 #### Blog Post Future
- - TBD
+ - Post about being featured creator on Observable
+  - Too late?
+- Things for users to know about open data staff?
+- Post about SWUNG hackathon on small technical products that help generate community
+    - Done
 
 #### Geospatial
 - Planetary & geospatial notes for later projects : https://github.com/JustinGOSSES/planetary_geospatial_notes/blob/master/README.md
