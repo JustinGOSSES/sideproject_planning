@@ -1,7 +1,7 @@
-# sideproject_planning
+# Sideproject Planning
 Side project planning to avoid just.... working on stuff
 
-Current Most Active Projects Are:
+## Current Most Active Projects Are:
 - "VisualAwesome"... reusable visualizations of the community that comes from Awesome Lists.
 - https://github.com/JustinGOSSES/nasa_contractor_jobs_information 
 
