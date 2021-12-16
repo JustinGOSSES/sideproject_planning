@@ -17,29 +17,29 @@ Current Most Active Projects Are:
     - Make improvements that remove issues
  
 #### Contribute to existing geoscience community projects:
-1. awesome-open-geoscience: https://github.com/JustinGOSSES/awesome-open-geoscience
-  - Manage approvals of contributions
-2. welly:
-  - Still need to get to contributing pull requests that make it easier to exchange json between Welly and wellio!
-3. pyrolite: Python for geochemistry
-  - contribute a few issue fixes when have time
+1. Awesome-open-geoscience: https://github.com/JustinGOSSES/awesome-open-geoscience
+    - Manage approvals of contributions
+2. Welly:
+    - Still need to get to contributing pull requests that make it easier to exchange json between Welly and wellio!
+3. Pyrolite: Python for geochemistry
+    - contribute a few issue fixes when have time
 4. Awesome-Earth-Artificial-Intelligence:  https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence
-  - Add a few things from code.nasa.gov potentially?
+    - Add a few things from code.nasa.gov potentially?
 
 ### Projects outside geoscience
 #### Older Side Projects
 1. AR Business cards:
-  - fix when dependencies cause it to break
+    - fix when dependencies cause it to break
 2. 404 page: 
-  - done unless browser standards or street view syntax break it again
+    - done unless browser standards or street view syntax break it again
 3. Yi Yun's business site: https://yiyunlininteriors.com/
-  - Do adjustments as needed
+    - Do adjustments as needed
 
 #### Generative Art
 1. SVG-based on Observable https://observablehq.com/@justingosses/svg-rectangles?collection=@justingosses/generative-art
 2. SVG-based on Observable https://observablehq.com/@justingosses/generative-curves?collection=@justingosses/generative-art
 3. SVG-based on Observable https://observablehq.com/@justingosses/messing-around-with-a-fork-2342?collection=@justingosses/generative-art
-  - Build on this or start next one from scratch?
+    - Build on this or start next one from scratch?
 
 
 ---------------------------------
@@ -53,17 +53,16 @@ Current Most Active Projects Are:
   - Reference 1980s PDF on algorithmic beauty of plants: https://twitter.com/artnome/status/1396076937626497028?s=19
 
 #### Water Relatd
-- Started markdown file with ideas for page that brings together all the sources I check for sea kayaking, whitewater paddling, flat water paddle boarding, and surfing. <a href="https://github.com/JustinGOSSES/sideproject_planning/blob/master/water_activities_dashboard_houston.md">https://github.com/JustinGOSSES/sideproject_planning/blob/master/water_activities_dashboard_houston.md</a>
-  - And built <a href="https://github.com/JustinGOSSES/water_check_houston">little page with collection of iframes & visualizations</a> of frequently checked inforrmation sources before paddling.
-- Observable notebook that uses USGS water guage API and personal experiences regarding when water is too high or fast for certain trips and plots the historical periods when trips were or weren't possible on a time series chart. 
-- Exploration of state of the art of open source wave-related deep-learning with surf focus.
+1. Started markdown file with ideas for page that brings together all the sources I check for sea kayaking, whitewater paddling, flat water paddle boarding, and surfing. <a href="https://github.com/JustinGOSSES/sideproject_planning/blob/master/water_activities_dashboard_houston.md">https://github.com/JustinGOSSES/sideproject_planning/blob/master/water_activities_dashboard_houston.md</a>
+    - And built <a href="https://github.com/JustinGOSSES/water_check_houston">little page with collection of iframes & visualizations</a> of frequently checked inforrmation sources before paddling.
+2. Observable notebook that uses USGS water guage API and personal experiences regarding when water is too high or fast for certain trips and plots the historical periods when trips were or weren't possible on a time series chart. 
+    - Exploration of state of the art of open source wave-related deep-learning with surf focus.
 
 #### "AsBigAs" API
 - A tiny javascript library that returns comparisons for length, height, area, volume, and weight based on data in JSONs or CSVs. For example, "The interior of the van has the same volume as 1523 average pineapples." draft in private repo https://github.com/JustinGOSSES/AsBigAs/blob/main/README.md
 
 #### NASA Contractor Information Brain Dump
-- A README with information related to getting a NASA contractor job. This consists of information I've told others in previous forms and some additional links to relevant information that I've gathered just for this side project. 
-- repository: https://github.com/JustinGOSSES/nasa_contractor_jobs_information 
+- A README with information related to getting a NASA contractor job. This consists of information I've told others in previous forms and some additional links to relevant information that I've gathered just for this side project. The repository is https://github.com/JustinGOSSES/nasa_contractor_jobs_information 
 
 #### Projects Around Community, Connections, & Dependencies
 - <b>"VisualAwesome"</b> SWUNG adaption on Lawrence Livermore National Labs software catalog project with emphasis on understanding engagement band ties across open source geoscience software landscape.
@@ -76,23 +75,23 @@ Current Most Active Projects Are:
 --------------------------
 ## Planning stages only
 #### Geoscience
-- Potential future NLP & Geoscience project building on experience with geovec-playground repo???
-  - idea
-- Interactive map & pictures of roadcut imagery from google streetview:
-  -  Training machine learning model to detect road cuts or outcrops and then place on map with quality score that can use a frame of reference of either all data, regional data, or local data for quality of roadcut imagery cutoff. 
+1. Potential future NLP & Geoscience project building on experience with geovec-playground repo???
+    - idea
+2. Interactive map & pictures of roadcut imagery from google streetview:
+    -  Training machine learning model to detect road cuts or outcrops and then place on map with quality score that can use a frame of reference of either all data, regional data, or local data for quality of roadcut imagery cutoff. 
 
 
 #### Blog Post Future
- - Post about being featured creator on Observable
-  - Too late?
-- Things for users to know about open data staff?
-- Post about SWUNG hackathon on small technical products that help generate community
+1. Post about being featured creator on Observable
+    - Too late?
+2. Things for users to know about open data staff?
+3. Post about SWUNG hackathon on small technical products that help generate community
     - Done
 
 #### Geospatial
-- Planetary & geospatial notes for later projects : https://github.com/JustinGOSSES/planetary_geospatial_notes/blob/master/README.md
-- Houston (or any scale) kayaking analysis from geospatial data: https://github.com/JustinGOSSES/kayaking_geospatial_project
-- Kayak mapping project is visualization of NLP results of all houston canoe cloud trip reports: https://thcc.clubexpress.com/content.aspx?page_id=22&club_id=496051&module_id=164295
+1. Planetary & geospatial notes for later projects : https://github.com/JustinGOSSES/planetary_geospatial_notes/blob/master/README.md
+2. Houston (or any scale) kayaking analysis from geospatial data: https://github.com/JustinGOSSES/kayaking_geospatial_project
+3. Kayak mapping project is visualization of NLP results of all houston canoe cloud trip reports: https://thcc.clubexpress.com/content.aspx?page_id=22&club_id=496051&module_id=164295
 
 #### Personal Website or Resume Related 
 - Personal website revamp: https://justingosses.com
