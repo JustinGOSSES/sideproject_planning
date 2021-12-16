@@ -9,36 +9,36 @@ Current Most Active Projects Are:
 ## Existing Longterm Side Projects:
 ### Geoscience Related Projects
 #### Continued improvements to my existing geoscience projects:
-- Predictatops Improvements????
+1. Predictatops Improvements????
   - Probably done, keep as full-scale working proof of concept and not reusable library.
-- Wellio
+2. Wellio
   - Make improvements that remove issues
-- Wellioviz
+3. Wellioviz
   - Make improvements that remove issues
-  - 
+ 
 #### Contribute to existing geoscience community projects:
-- awesome-open-geoscience: https://github.com/JustinGOSSES/awesome-open-geoscience
+1. awesome-open-geoscience: https://github.com/JustinGOSSES/awesome-open-geoscience
   - Manage approvals of contributions
-- welly:
+2. welly:
   - Still need to get to contributing pull requests that make it easier to exchange json between Welly and wellio!
-- pyrolite: Python for geochemistry
+3. pyrolite: Python for geochemistry
   - contribute a few issue fixes when have time
-- Awesome-Earth-Artificial-Intelligence:  https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence
+4. Awesome-Earth-Artificial-Intelligence:  https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence
   - Add a few things from code.nasa.gov potentially?
 
-### Active Side Projects outside geoscience
+### Projects outside geoscience
 #### Older Side Projects
-- AR Business cards:
+1. AR Business cards:
   - fix when dependencies cause it to break
-- 404 page: 
+2. 404 page: 
   - done unless browser standards or street view syntax break it again
-- Yi Yun's business site: https://yiyunlininteriors.com/
+3. Yi Yun's business site: https://yiyunlininteriors.com/
   - Do adjustments as needed
 
 #### Generative Art
-- SVG-based on Observable https://observablehq.com/@justingosses/svg-rectangles?collection=@justingosses/generative-art
-- SVG-based on Observable https://observablehq.com/@justingosses/generative-curves?collection=@justingosses/generative-art
-- SVG-based on Observable https://observablehq.com/@justingosses/messing-around-with-a-fork-2342?collection=@justingosses/generative-art
+1. SVG-based on Observable https://observablehq.com/@justingosses/svg-rectangles?collection=@justingosses/generative-art
+2. SVG-based on Observable https://observablehq.com/@justingosses/generative-curves?collection=@justingosses/generative-art
+3. SVG-based on Observable https://observablehq.com/@justingosses/messing-around-with-a-fork-2342?collection=@justingosses/generative-art
   - Build on this or start next one from scratch?
 
 
