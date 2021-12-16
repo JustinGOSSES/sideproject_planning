@@ -51,6 +51,7 @@ Current Most Active Projects Are:
 #### Blog Posts In Outline or Draft Stage
 - Post about being featured creator on Observable
   - Too late?
+- Things for users to know about open data staff?
 - Post about SWUNG hackathon on small technical products that help generate community
     - Done
 
