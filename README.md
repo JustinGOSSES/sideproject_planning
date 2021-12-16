@@ -3,16 +3,14 @@ Side project planning to avoid just.... working on stuff
 
 Current Most Active Projects Are:
 - "VisualAwesome"... reusable visualizations of the community that comes from Awesome Lists.
-- Water Related various....
-  - A single page with all of the most common resources I check before paddling/surfing in Houston Galveston area. 
-  - Exploration of state of the art of open source wave-related deep-learning with surf focus.
+- https://github.com/JustinGOSSES/nasa_contractor_jobs_information 
 
-
+---------------------------------
 ## Existing Longterm Side Projects:
 ### Geoscience Related Projects
 #### Continued improvements to my existing geoscience projects:
-- Continue Predictatops Improvements????
-  - Maybe more clearly express in README that it is more of a proof of concept than tool? And provide more instructions for how to use as such?
+- Predictatops Improvements????
+  - Probably done, keep as full-scale working proof of concept and not reusable library.
 - Wellio
   - Make improvements that remove issues
 - Wellioviz
@@ -22,11 +20,11 @@ Current Most Active Projects Are:
 - awesome-open-geoscience: https://github.com/JustinGOSSES/awesome-open-geoscience
   - Manage approvals of contributions
 - welly:
-  - contribute pull requests that make it easier to exchange json between Welly and wellio
+  - Still need to get to contributing pull requests that make it easier to exchange json between Welly and wellio!
 - pyrolite: Python for geochemistry
   - contribute a few issue fixes when have time
 - Awesome-Earth-Artificial-Intelligence:  https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence
-  - Contribute linkages between it and Open-Awesome-Geoscience
+  - Add a few things from code.nasa.gov potentially?
 
 ### Active Side Projects outside geoscience
 #### Older Side Projects
@@ -35,14 +33,20 @@ Current Most Active Projects Are:
 - 404 page: 
   - done unless browser standards or street view syntax break it again
 - Yi Yun's business site: https://yiyunlininteriors.com/
-  - Done with adjustments as needed
+  - Do adjustments as needed
 
 #### Generative Art
-- SVG-based on Observable https://observablehq.com/@justingosses/messing-around-with-a-fork-2342
-- SVG-based on Observable https://observablehq.com/@justingosses/svg-rectangles
+- SVG-based on Observable https://observablehq.com/@justingosses/svg-rectangles?collection=@justingosses/generative-art
+- SVG-based on Observable https://observablehq.com/@justingosses/generative-curves?collection=@justingosses/generative-art
+- SVG-based on Observable https://observablehq.com/@justingosses/messing-around-with-a-fork-2342?collection=@justingosses/generative-art
   - Build on this or start next one from scratch?
 
-
+#### Projects Around Community, Connections, & Dependencies
+- <b>"VisualAwesome"</b> SWUNG adaption on Lawrence Livermore National Labs software catalog project with emphasis on understanding engagement band ties across open source geoscience software landscape.
+- SWUNG hackathon lightning talk(s) slides
+  - Done
+- Created easily reusable template repository to decrease the time it takes to adapt the project to other sources from days to dozens of minutes waiting for a script to run after changing several lines in a configuration file: https://github.com/JustinGOSSES/awsome-list-visual-explorer-template
+  - Need to improve documentation, fix a few minor bugs, and expand number of visualizations to better answer common questions.
 
 #### Blog Posts In Outline or Draft Stage
 - Post about being featured creator on Observable
@@ -50,17 +54,8 @@ Current Most Active Projects Are:
 - Post about SWUNG hackathon on small technical products that help generate community
     - Done
 
-
+---------------------------------
 ## Work In Progress Not Yet First Draft
-
-
-#### Projects Around Community, Connections, & Dependencies
-- <b>"VisualAwesome"</b> SWUNG adaption on Lawrence Livermore National Labs software catalog project with emphasis on understanding engagement band ties across open source geoscience software landscape.
-  - write up list of changes needed to be done to reuse LLNL codebase
-  - See if I can automate or fork LLNL codebase such that it's easier to reuse to understand other code communities
-  - Would it be easier to reuse if it was just the python and JavaScript with no Jekyll/ruby?
-- SWUNG hackathon lightning talk(s) slides
-  - Done
 
 #### Water Relatd
 - Started markdown file with ideas for page that brings together all the sources I check for sea kayaking, whitewater paddling, flat water paddle boarding, and surfing. <a href="https://github.com/JustinGOSSES/sideproject_planning/blob/master/water_activities_dashboard_houston.md">https://github.com/JustinGOSSES/sideproject_planning/blob/master/water_activities_dashboard_houston.md</a>
