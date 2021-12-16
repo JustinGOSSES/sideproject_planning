@@ -2,7 +2,7 @@
 Side project planning to avoid just.... working on stuff
 
 ## Current Most Active Projects Are:
-- "VisualAwesome"... reusable visualizations of the community that comes from Awesome Lists.
+- [Visual Awesome](#visual-awesome) : reusable visualizations of the community that comes from Awesome Lists.
 - https://github.com/JustinGOSSES/nasa_contractor_jobs_information 
 
 ---------------------------------
@@ -64,7 +64,9 @@ Side project planning to avoid just.... working on stuff
 #### NASA Contractor Information Brain Dump
 - A README with information related to getting a NASA contractor job. This consists of information I've told others in previous forms and some additional links to relevant information that I've gathered just for this side project. The repository is https://github.com/JustinGOSSES/nasa_contractor_jobs_information 
 
-#### Projects Around Community, Connections, & Dependencies
+#### Visual Awesome
+Projects Around Community, Connections, & Dependencies:
+
 - <b>"VisualAwesome"</b> SWUNG adaption on Lawrence Livermore National Labs software catalog project with emphasis on understanding engagement band ties across open source geoscience software landscape.
 - SWUNG hackathon lightning talk(s) slides
   - Done
