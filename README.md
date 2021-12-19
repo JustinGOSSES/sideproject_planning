@@ -73,6 +73,9 @@ Projects Around Community, Connections, & Dependencies:
 - Created easily reusable template repository to decrease the time it takes to adapt the project to other sources from days to dozens of minutes waiting for a script to run after changing several lines in a configuration file: https://github.com/JustinGOSSES/awsome-list-visual-explorer-template
   - Need to improve documentation, fix a few minor bugs, and expand number of visualizations to better answer common questions.
   
+#### Geology Roadtrip Assistant
+- Proof of concept in Observable that can be opened with Siri and tells you some key facts about the geologic unit at your present location. The idea is this would be helpful for roadtrips where you didn't have a "Roadside Geology of ___ " book or a passenger willing to check the mile markers and find the right page again and again.
+  - repo: https://observablehq.com/@justingosses/stratigraphy-speech
 
 --------------------------
 ## Planning stages only
