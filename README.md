@@ -75,7 +75,7 @@ Projects Around Community, Connections, & Dependencies:
   
 #### Geology Roadtrip Assistant
 - Proof of concept in Observable that can be opened with Siri and tells you some key facts about the geologic unit at your present location. The idea is this would be helpful for roadtrips where you didn't have a "Roadside Geology of ___ " book or a passenger willing to check the mile markers and find the right page again and again.
-  - repo: https://observablehq.com/@justingosses/stratigraphy-speech
+  - Work In Progress Live Notebook: https://observablehq.com/@justingosses/stratigraphy-speech
 
 --------------------------
 ## Planning stages only
