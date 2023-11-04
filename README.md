@@ -2,7 +2,7 @@
 Side project planning to avoid just.... working on stuff
 
 ## Current Most Active Projects Are:
-- [Visual Awesome](#visual-awesome) : reusable visualizations of the community that comes from Awesome Lists.
+- [LAGADL:Large-language-model Assisted Geology Descriptions of Arbitrary Locations](https://github.com/JustinGOSSES/LAGDAL) : reusable visualizations of the community that comes from Awesome Lists.
 - https://github.com/JustinGOSSES/nasa_contractor_jobs_information 
 
 ---------------------------------
