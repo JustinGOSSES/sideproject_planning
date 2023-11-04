@@ -80,4 +80,15 @@ Projects Around Community, Connections, & Dependencies:
 2. Houston (or any scale) kayaking analysis from geospatial data: https://github.com/JustinGOSSES/kayaking_geospatial_project
 3. Kayak mapping project is visualization of NLP results of all houston canoe cloud trip reports: https://thcc.clubexpress.com/content.aspx?page_id=22&club_id=496051&module_id=164295
 
+### Geology of Buffalo Bayou 
+- Call for interested parties: https://www.hgs.org/buffalo-bayou-geology-project-you-can-help
+- NOTES:
+    - Reuse of https://github.com/JustinGOSSES/LAGDAL ?
+    - Use lidary created DEM from:
+      - USGS: https://apps.nationalmap.gov/lidar-explorer/#/
+      - Open Topography: https://opentopography.org/news/api-access-usgs-3dep-rasters-now-available
+    - Use USGS well logs?
+      - (needs fixing again) https://observablehq.com/@justingosses/hello-wellioviz-swap-out-log-no-other-changes-required-now-a?collection=@justingosses/geology
+      - bore holes from USGS https://webapps.usgs.gov/nibiMap/index.html
+        - Exampel LAS address from that site: https://txdata.usgs.gov/GeoLogArchiver/odata/Logs(5767)/LogFile?Download=true
 
