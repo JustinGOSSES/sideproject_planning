@@ -87,6 +87,8 @@ Projects Around Community, Connections, & Dependencies:
     - Use lidary created DEM from:
       - USGS: https://apps.nationalmap.gov/lidar-explorer/#/
       - preview: https://apps.nationalmap.gov/3depdem/
+      - useful static page for checking out local tiff files: https://app.geotiff.io/load
+      - useful static apge for checking out COG (cloud optimized geotiff) files: https://geotiffjs.github.io/cog-explorer/#long=168.460&lat=-17.553&zoom=17&scene=&bands=&pipeline=
       - Open Topography: https://opentopography.org/news/api-access-usgs-3dep-rasters-now-available
     - Use USGS well logs?
       - (needs fixing again) https://observablehq.com/@justingosses/hello-wellioviz-swap-out-log-no-other-changes-required-now-a?collection=@justingosses/geology
