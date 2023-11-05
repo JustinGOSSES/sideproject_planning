@@ -90,6 +90,7 @@ Projects Around Community, Connections, & Dependencies:
       - useful static page for checking out local tiff files: https://app.geotiff.io/load
       - useful static apge for checking out COG (cloud optimized geotiff) files: https://geotiffjs.github.io/cog-explorer/#long=168.460&lat=-17.553&zoom=17&scene=&bands=&pipeline=
       - Open Topography: https://opentopography.org/news/api-access-usgs-3dep-rasters-now-available
+      - Might be easier if just interested in one area to use this https://github.com/OpenTopography/RiverREM to get tif and use geotiff.js to visualize?
     - Use USGS well logs?
       - (needs fixing again) https://observablehq.com/@justingosses/hello-wellioviz-swap-out-log-no-other-changes-required-now-a?collection=@justingosses/geology
       - bore holes from USGS https://webapps.usgs.gov/nibiMap/index.html
