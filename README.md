@@ -86,9 +86,18 @@ Projects Around Community, Connections, & Dependencies:
     - Reuse of https://github.com/JustinGOSSES/LAGDAL ?
     - Use lidary created DEM from:
       - USGS: https://apps.nationalmap.gov/lidar-explorer/#/
+      - preview: https://apps.nationalmap.gov/3depdem/
       - Open Topography: https://opentopography.org/news/api-access-usgs-3dep-rasters-now-available
     - Use USGS well logs?
       - (needs fixing again) https://observablehq.com/@justingosses/hello-wellioviz-swap-out-log-no-other-changes-required-now-a?collection=@justingosses/geology
       - bore holes from USGS https://webapps.usgs.gov/nibiMap/index.html
         - Exampel LAS address from that site: https://txdata.usgs.gov/GeoLogArchiver/odata/Logs(5767)/LogFile?Download=true
+        - Need to change '.' to '_' for https://justingosses.github.io/wellioviz/demo.html to load the resulting files successfully.
+    - Potential modified LAGDAL website for buffalo bayou specific view:
+        -  Google streetview imagery
+        -  Standard geographic map
+        -  clickable visualizatio of borehores
+        -  Digital elevation model view
+        -  Some way to put depth of borehole onto map, so users can see where something like a gamma ray spike might or might not appear in the bayou outcrop some distance away if continuous horizontally.
+        -  Some way to add pictures & notes?
 
