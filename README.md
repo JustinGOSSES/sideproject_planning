@@ -103,4 +103,6 @@ Projects Around Community, Connections, & Dependencies:
         -  Digital elevation model view
         -  Some way to put depth of borehole onto map, so users can see where something like a gamma ray spike might or might not appear in the bayou outcrop some distance away if continuous horizontally.
         -  Some way to add pictures & notes?
-
+### leverage LAGDAL learnings in helping out with RockD v2
+- old RockD site v1: https://github.com/UW-Macrostrat/rockd-website
+- new web compoments to be ised in version 2: https://github.com/UW-Macrostrat/web-components
