@@ -83,6 +83,7 @@ Projects Around Community, Connections, & Dependencies:
 ### Geology of Buffalo Bayou 
 - Call for interested parties: https://www.hgs.org/buffalo-bayou-geology-project-you-can-help
 - NOTES:
+    - Tom Helm buffalo bayou meanders presentation: https://texasriparian.org/wp-content/uploads/2017/01/short-version-Searching-for-the-original-meanders-of-Buffalo-Bayou-final-reduced.pdf 
     - Reuse of https://github.com/JustinGOSSES/LAGDAL ?
     - Use lidary created DEM from:
       - USGS: https://apps.nationalmap.gov/lidar-explorer/#/
