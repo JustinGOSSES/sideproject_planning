@@ -1,23 +1,23 @@
 # Sideproject Planning
 Side project planning to avoid just.... working on stuff
 
-## Current Most Active Projects Are:
-- [LAGADL:Large-language-model Assisted Geology Descriptions of Arbitrary Locations](https://github.com/JustinGOSSES/LAGDAL) : reusable visualizations of the community that comes from Awesome Lists.
-- https://github.com/JustinGOSSES/nasa_contractor_jobs_information 
-
 ---------------------------------
 ## Existing Longterm Side Projects:
 ### Geoscience Related Projects
+
+#### Contribute to existing geoscience community projects:
+1. Maintainer of Awesome-open-geoscience: [[https://github.com/JustinGOSSES/awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience)](https://github.com/softwareunderground/awesome-open-geoscience)
+
 #### Continued improvements to my existing geoscience projects:
 1. Wellio
     - Make improvements that remove issues
 2. Wellioviz
     - Make improvements that remove issues
- 
-#### Contribute to existing geoscience community projects:
-1. Maintainer of Awesome-open-geoscience: [[https://github.com/JustinGOSSES/awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience)](https://github.com/softwareunderground/awesome-open-geoscience)
-2. Welly:
-    - Still need to get to contributing pull requests that make it easier to exchange json between Welly and wellio
+
+#### More or less done but might go back to
+- [LAGADL:Large-language-model Assisted Geology Descriptions of Arbitrary Locations](https://github.com/JustinGOSSES/LAGDAL) : reusable visualizations of the community that comes from Awesome Lists.
+- https://github.com/JustinGOSSES/nasa_contractor_jobs_information 
+
 
 ### Projects outside geoscience
 #### Older Side Projects
@@ -47,8 +47,8 @@ Side project planning to avoid just.... working on stuff
     - And built <a href="https://github.com/JustinGOSSES/water_check_houston">little page with collection of iframes & visualizations</a> of frequently checked inforrmation sources before paddling.
 2. Observable notebook that uses USGS water guage API and personal experiences regarding when water is too high or fast for certain trips and plots the historical periods when trips were or weren't possible on a time series chart. [https://observablehq.com/@justingosses/when-could-you-paddle-buffalo-bayou](https://observablehq.com/@justingosses/when-could-you-paddle-buffalo-bayou
 
-#### "AsBigAs" API
-- A tiny javascript library that returns comparisons for length, height, area, volume, and weight based on data in JSONs or CSVs. For example, "The interior of the van has the same volume as 1523 average pineapples." draft in private repo https://github.com/JustinGOSSES/AsBigAs/blob/main/README.md
+#### "An asteroid as big as" 
+- A tiny website while recovering from covid that tells you have big the closest to Earth asteroid is in sizes of random things. Insprised by ridiculous news article headlines. https://justingosses.github.io/AsBigAs/
 
 #### Visual Awesome
 Projects Around Community, Connections, & Dependencies:
