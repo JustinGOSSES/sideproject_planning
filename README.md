@@ -1,4 +1,4 @@
-# Sideproject Planning
+# Personal sideproject planning
 Side project planning to avoid just.... working on stuff
 
 ---------------------------------
